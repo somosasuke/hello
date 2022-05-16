@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void)
+{
+  print("eai nega veia\n")
+}
